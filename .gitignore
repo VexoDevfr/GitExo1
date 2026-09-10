@@ -1,2 +1,9 @@
 .idea
 *.log
+# Dépendances
+node_modules/
+vendor/
+# Fichiers d'environnement / secrets
+.env
+# Fichiers générés par l'éditeur ou l'OS
+.DS_Store
